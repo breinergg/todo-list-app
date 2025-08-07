@@ -17,6 +17,17 @@ Una mini aplicación desarrollada con **Flutter** y **Dart** que permite gestion
 
 - Probado en **Android**
 
+## 📸 Capturas de pantalla
+
+### 🏠 Pantalla Principal
+
+![Pantalla Principal](imagenesPrueba/Captura de pantalla 2025-08-06 230150.png)
+
+### ➕ Añadir Tarea
+
+![Añadir Tarea](imagenesPrueba/Captura de pantalla 2025-08-06 230133.png)
+
+
 ## 🛠️ Tecnologías Utilizadas
 
 - [Flutter](https://flutter.dev/) 3.x
@@ -32,3 +43,4 @@ Una mini aplicación desarrollada con **Flutter** y **Dart** que permite gestion
 
 **Breiner González Machado**
 - 📧 Email: breinerftwyts@gmail.com
+
